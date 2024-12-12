@@ -7,7 +7,7 @@ Hello! I'm Ogunmefun Boluwaduro Abosede 😊, a data analyst with a passion of e
 <!--Mention your top/relevant skills here-->
 ## WHAT I DO
 ## MY PORTFOLIO
-![image]https://1drv.ms/i/c/ddcbc1cf08a91e43/EY-jNdwYT7FAjfGi157cCA8BZRpykqKI9JOTc1Hlvp7z2Q?e=IWUkaX
+![image](https://1drv.ms/i/c/ddcbc1cf08a91e43/EY-jNdwYT7FAjfGi157cCA8BZRpykqKI9JOTc1Hlvp7z2Q?e=IWUkaX)
 
 
 
